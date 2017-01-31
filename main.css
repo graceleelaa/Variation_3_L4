@@ -5,7 +5,7 @@
 body{
 
 	background:yellow;
-	font-family: serif;
+	font-family: monospace;
 }
 
 h1{
@@ -31,10 +31,10 @@ p{
 	line-height: 3em;
 }
 
-#pink-bold{
-	color: #F1948A;
+#blue-bold{
+	color: #2471A3;
 	font-weight: bold;
-	font-style: oblique;
+	font-style: normal;
 }
 
 #four-hundred{
